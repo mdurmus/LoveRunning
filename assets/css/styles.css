@@ -1,0 +1,21 @@
+/*Reset CSS*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Header Area*/
+header {
+    background-color: blue;
+}
+
+/*Main Area*/
+main {
+    background-color: red;
+}
+
+/*Footer Area*/
+footer {
+    background-color: green;
+}
