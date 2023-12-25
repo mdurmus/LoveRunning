@@ -94,9 +94,32 @@ main {
     margin-top: 48px;
 }
 
-/*Footer Area*/
 footer {
-    background-color: green;
+    background-color: #fff !important;
+}
+
+/*Footer Area Social Networks*/
+#social-networks {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    text-align: center;
+
+}
+
+#social-networks {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    text-align: center;
+    list-style-type: none;
+
+}
+
+#social-network i{
+    font-size:160%;
+    padding: 5%;
+    color:#3a3a3a;
 }
 
 @media screen and (min-width:768px) {
