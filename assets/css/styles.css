@@ -14,13 +14,11 @@ body {
     flex-direction: column;
     /*General project style*/
     background-color: #3a3a3a;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*Header Area*/
-header {
-    background-color: blue;
-    font-family: Oswald, sans-serif;
-}
+header {}
 
 /*Main Area*/
 main {
