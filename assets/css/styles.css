@@ -186,6 +186,15 @@ main {
     color: #fafafa;
 }
 
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0px;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
