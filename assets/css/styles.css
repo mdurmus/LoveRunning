@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
+
 /*Reset CSS*/
 * {
     margin: 0;
@@ -17,6 +19,7 @@ body {
 /*Header Area*/
 header {
     background-color: blue;
+    font-family: Oswald, sans-serif;
 }
 
 /*Main Area*/
